@@ -1,4 +1,4 @@
-# HiGoTenDaScience[^1]
+# HiGoTenDaScience
 We are an aspiring group of developers based in Bengaluru, trying to build solutions and projects pertaining to anything that catches our eye, from low-level systems or Machine Learning.
 
 * 🌈 Contribution guidelines - PRs are always welcome. See repository specific guidelines for more details.
